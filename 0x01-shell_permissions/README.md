@@ -1,2 +1,1 @@
-#!/bin/bash
-good script
+permissions in linux
