@@ -1,2 +1,2 @@
 #!/bin/bash
-hello $LOGNAME
+echo hello $USER
